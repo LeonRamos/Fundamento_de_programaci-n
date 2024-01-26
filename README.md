@@ -1,6 +1,6 @@
 # Bienvenidos al Curso de Fundamentos de Programación del TSJ Unidad Academica Zapopan
 
-![](./Images/header_tsj.jpg)
+![](./header_tsj.jpg)
 
 ## Git & GitHub desde cero: Curso gratis
 ![https://mouredev.com/git](./git_github_banner.png)
