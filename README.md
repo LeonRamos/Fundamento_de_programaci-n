@@ -8,7 +8,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)]([https://youtube.com/mouredevapps?sub_confirmation=1](https://youtube.com/shorts/qprqCT9qjgo?si=aoHBmdFQX_mN1DPy))
 
 ## Lo que aprenderás:
-- [Diseño Algorítmico](Diseño algoritmico.md)
+- [Diseño Algorítmico](https://github.com/LeonRamos/Fundamento_de_programaci-n/edit/main/README.md#:~:text=Dise%C3%B1o-,algoritmico,-.md)
 - [Introducción a la Programación]()
 - [Control de Flujo]()
 - [Organización de datos]()
