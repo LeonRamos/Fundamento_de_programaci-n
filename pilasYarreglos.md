@@ -1,5 +1,4 @@
-#Ejemplo de pila y arreglo
-Este ejemplo demuestra dos estructuras de datos fundamentales y sus aplicaciones en la vida diaria:
+#Este ejemplo demuestra dos estructuras de datos fundamentales y sus aplicaciones en la vida diaria:
 
 - Pila (Stack): Se utiliza para implementar un historial de navegación web simplificado. Esto simula cómo los navegadores web manejan el historial de páginas visitadas, permitiendo al usuario retroceder a páginas anteriores28.
 
